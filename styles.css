@@ -1,0 +1,95 @@
+.welcome {
+  display: inline-block;
+  
+  margin: 35px 80px;
+}
+
+.titulo{
+  display: inline;
+}
+
+.titulo img {
+  margin: 30px;
+  float: left;
+  width: 200px;
+}
+
+.container {
+  display: inline-block;
+  margin-left: 80px;
+  height: 30px;
+  width: 40%;
+}
+
+span {
+  display: block;
+}
+
+form {
+  margin-top: 15px;
+}
+
+label {
+  display: block;
+}
+
+form #Email, #Pass, #User{
+  margin-top: 10px;
+  border-radius: 4px;
+  display: block;
+}
+
+#Email, #Pass, #User {
+  width: 600px;
+  margin-bottom: 10px;
+  height: 25px;
+}
+
+#Email, #Pass, #User {
+  opacity: 0.5;
+}
+
+.derecha{
+  margin-right: 120px;
+  float: left;
+}
+
+.izquierda{
+  margin-top: 25px;
+  margin-right: 50px;
+}
+
+.boton {
+  width: 150px;
+  height: 45px;
+  margin-top: 50px;
+  margin-left: 350px;
+  opacity: 0.5;
+  display: inline;
+  border: grey 2px solid;
+}
+
+input .cbox {
+  height: 40px;
+}
+
+.cbox1 .mensaje{
+  display: block;
+  width: 20%;
+  margin-left: 500px;
+}
+
+span {
+  width: 550px;
+  display: inline-block;
+}
+
+span .mensaje {
+  margin-top: 30px;
+}
+
+ .mensaje-final{
+  display: inline-block;
+  margin-left: 350px;
+  margin-top: 20px;
+}
